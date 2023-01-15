@@ -41,11 +41,11 @@ footer{
 }
 
 .mb-4 a{
-    border: 2px solid #EFA3C8;
+    border: 2px solid black;
 }
 
 .mb-4 a:hover{
-    border: 2px solid black;
+    border: 2px solid #EFA3C8;
 }
 
 /* homepage */
